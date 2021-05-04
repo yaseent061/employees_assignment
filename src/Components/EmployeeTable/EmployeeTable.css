@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+table {
+  margin: 50px auto;
+  color: black;
+}
+
+table,
+th,
+td {
+  text-align: center;
+  border: none;
+  text-decoration: none;
+}
+
+thead {
+  background-color: rgb(230, 99, 121);
+}
+
+thead th {
+  height: 80px;
+}
+
+tbody {
+  background-color: #fff;
+}
+tr td {
+  height: 200px;
+  width: 200px;
+}
+
+tbody tr:hover {
+  background-color: lightseagreen;
+  cursor: pointer;
+}

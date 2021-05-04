@@ -1,0 +1,25 @@
+form {
+  text-align: left;
+  width: 200px;
+  margin: 10px auto;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 10px 0;
+}
+
+input[type="email"] {
+  padding: 10px;
+  margin: 10px 0;
+}
+
+input[type="image"] {
+  padding: 10px;
+  margin: 10px 0;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  margin: 10px 0;
+}
